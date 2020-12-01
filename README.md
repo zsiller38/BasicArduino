@@ -15,3 +15,18 @@ Don't know what I should put here
 I really enjoyed this project it was confusing at first but I feal like I understand what each line of code does. I am really looking forward to the finite light blinker. I am still wondering if there is anyway I can have the arduino pluged into my computer but not have the code running.
 
 ---
+## Finite Light Blinker
+
+### Discription
+
+
+### Image
+
+
+### Evidence
+
+
+### Reflection
+
+---
+## Variable Light Blinker
