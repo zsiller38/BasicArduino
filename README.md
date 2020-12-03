@@ -6,7 +6,7 @@
 Our first Arduino project was making an LED blink.
 
 ### Image
-
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
 ### Evidence
 [LED blink code](https://create.arduino.cc/editor/zsiller38/645f63f4-a05e-46d7-808e-a8b659a936dc/preview)
