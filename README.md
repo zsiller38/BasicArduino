@@ -21,7 +21,7 @@ I really enjoyed this project it was confusing at first but I feal like I unders
 Our goal was to write a code to make an LED blink for a set number of times.
 
 ### Image
-
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
 ### Evidence
 [Finite Blinker Code](https://create.arduino.cc/editor/zsiller38/5ed819b4-7e40-4f50-91b1-4748cb831698)
