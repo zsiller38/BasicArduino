@@ -31,3 +31,14 @@ I really enjoyed making counters to count how many times an LED blinks and using
 
 ---
 ## Variable Light Blinker
+
+### Description
+This project was to make a code that would make a light blink for 2 seconds the 1.8 1.6 ectetera all the way down to .2 seconds.
+### Image 
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
+
+### Evidence
+[Variable LED Blinker](https://create.arduino.cc/editor/zsiller38/4556d5d7-55b1-4991-89bc-cded3201e307)
+
+### Reflection
+I found this project rather easy and I did learn some new stuff like Delay Var. Most of the project was just substituting Delay Var into diffrent parts of the code, so I did not think it was that interesting.
