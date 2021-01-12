@@ -34,6 +34,7 @@ I really enjoyed making counters to count how many times an LED blinks and using
 
 ### Description
 This project was to make a code that would make a light blink for 2 seconds the 1.8 1.6 ectetera all the way down to .2 seconds.
+
 ### Image 
 <img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
@@ -42,3 +43,39 @@ This project was to make a code that would make a light blink for 2 seconds the 
 
 ### Reflection
 I found this project rather easy and I did learn some new stuff like Delay Var. Most of the project was just substituting Delay Var into diffrent parts of the code, so I did not think it was that interesting.
+
+---
+## 1 Button 1 LED
+
+### Description
+Pushing one button turns on an LED pushing it again turns it off.
+
+### Image
+
+### Evidence
+
+### Reflection
+
+---
+## 2 Button 2 LED
+
+### Description
+One button makes one LED blink another button makes a different LED blink.
+
+### Image
+
+### Evidence
+
+### Reflection
+
+---
+## Button Servo
+Make a servo to right by pushing one button and left by pushing another.
+
+### Description
+
+### Image
+
+### Evidence
+
+### Reflection
