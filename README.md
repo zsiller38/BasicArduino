@@ -51,6 +51,7 @@ I found this project rather easy and I did learn some new stuff like Delay Var. 
 Pushing one button turns on an LED pushing it again turns it off.
 
 ### Image
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
 ### Evidence
 
@@ -63,6 +64,7 @@ Pushing one button turns on an LED pushing it again turns it off.
 One button makes one LED blink another button makes a different LED blink.
 
 ### Image
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
 ### Evidence
 
@@ -75,6 +77,7 @@ Make a servo to right by pushing one button and left by pushing another.
 ### Description
 
 ### Image
+<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
 
 ### Evidence
 
