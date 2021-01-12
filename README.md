@@ -64,7 +64,7 @@ Pushing one button turns on an LED pushing it again turns it off.
 One button makes one LED blink another button makes a different LED blink.
 
 ### Image
-<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
+<img src="Images/Screen Shot 2021-01-12 at 10.37.29 AM.png" alt="Screen Shot 2021-01-12 at 10.37.29 AM.png" width="200" height="200">
 
 ### Evidence
 
