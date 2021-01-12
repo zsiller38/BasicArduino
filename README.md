@@ -51,7 +51,7 @@ I found this project rather easy and I did learn some new stuff like Delay Var. 
 Pushing one button turns on an LED pushing it again turns it off.
 
 ### Image
-<img src="Images/Screen Shot 2020-12-03 at 3.25.40 PM.png" alt="Screen Shot 2020-12-03 at 3.25.40 PM" width="200" height="200">
+<img src="Images/Screen Shot 2021-01-12 at 10.37.53 AM.png" alt="Screen Shot 2021-01-12 at 10.37.53 AM.png" width="200" height="200">
 
 ### Evidence
 
