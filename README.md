@@ -57,6 +57,7 @@ Pushing one button turns on an LED pushing it again turns it off.
 [1 Button 1 LED Code](https://create.arduino.cc/editor/zsiller38/3d4ac3cd-3ba6-4903-8081-033cfeda9844)
 
 ### Reflection
+The button and LED was a cool project because we learned how to use buttons. It was this project that really taught me a lot about one of the big parts of coding, if statements. I also learned a lot about digitale read and how you can read the button state.
 
 ---
 ## 2 Button 2 LED
@@ -71,6 +72,7 @@ One button makes one LED blink another button makes a different LED blink.
 [2 Button 2 LED Code](https://create.arduino.cc/editor/zsiller38/b7b3e8e6-8d5d-4a11-a189-793ee88da18b)
 
 ### Reflection
+2 buttons 2 LEDs was essentially 1 button 1 led with some new code and circit. It was a pretty easy project because there were not any new code components. I did have some truoble because I did not have enough resistors but it worked out.
 
 ---
 ## Button Servo
@@ -85,3 +87,4 @@ Make a servo to right by pushing one button and left by pushing another.
 [Button Servo Code](https://create.arduino.cc/editor/zsiller38/e26726b3-9e80-43b9-ac8d-7d7488347a1f)
 
 ### Reflection
+Button servo was my favorite project so far and I am very exited to start mouting it. 
