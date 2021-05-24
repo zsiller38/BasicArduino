@@ -87,4 +87,4 @@ Make a servo to right by pushing one button and left by pushing another.
 [Button Servo Code](https://create.arduino.cc/editor/zsiller38/e26726b3-9e80-43b9-ac8d-7d7488347a1f)
 
 ### Reflection
-Button servo was my favorite project so far and I am very exited to start mouting it. 
+Button servo was my favorite project so far and I am very exited to start mouting it. I enjoyed learning how to tell the servo to turn and how much to turn by. 
